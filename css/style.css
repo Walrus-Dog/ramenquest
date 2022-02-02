@@ -1,0 +1,103 @@
+.defaultbg {
+    border: 2px solid black;
+    position: relative;
+}
+
+.defaulttextbox {
+    position: absolute;
+    top: 702px;
+    left: 2px;
+    border-top: black 2px solid;
+    border-bottom: black 2px solid;
+}
+
+.text-main {
+    width: 1388px;
+    position: absolute;
+    top: 700px;
+    left: 15px;
+    color: #f1f1f1;
+    font-size: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.defaultchar1 {
+    position: absolute;
+    top: 352px;
+    left: 2px;
+}
+
+.defaultchar2 {
+    position: absolute;
+    top: 352px;
+    left: 1052px;
+}
+
+
+button {
+    color: #f1f1f1;
+    background-color: #264653;
+    margin: 0 auto;
+    padding: 3px;
+    border: 2px solid #272727;
+    font-size: 20px;
+}
+
+.opt-btn {
+    font-size: 38px;
+    padding: 0;
+    margin: 0;
+}
+
+
+#btnLeft {
+    display: none;
+    position: absolute;
+    top: 664px;
+    left: 616px;
+}
+
+#btnRight {
+    display: none;
+    position: absolute;
+    top: 664px;
+    left: 743px;
+}
+
+#btnForward {
+    display: none;
+    position: absolute;
+    top: 612px;
+    left: 660px;
+}
+
+#btnBack {
+    display: none;
+    position: absolute;
+    top: 664px;
+    left: 676px;
+}
+
+#btnNext {
+    position: absolute;
+    top: 664px;
+    left: 862px;
+}
+
+#option1 {
+    position: absolute;
+    top: 705px;
+    left: 15px;
+}
+
+#option2 {
+    position: absolute;
+    top: 771px;
+    left: 15px;
+}
+
+#option3 {
+    position: absolute;
+    top: 838px;
+    left: 15px;
+}
