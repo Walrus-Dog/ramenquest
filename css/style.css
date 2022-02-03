@@ -40,7 +40,7 @@ button {
     margin: 0 auto;
     padding: 3px;
     border: 2px solid #272727;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .opt-btn {
@@ -50,7 +50,7 @@ button {
 }
 
 
-#btnLeft {
+/* #btnLeft {
     display: none;
     position: absolute;
     top: 664px;
@@ -76,7 +76,7 @@ button {
     position: absolute;
     top: 664px;
     left: 676px;
-}
+} */
 
 #btnNext {
     position: absolute;
