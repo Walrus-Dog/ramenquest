@@ -1,11 +1,13 @@
-export var Interaction
+// export var Interaction
 
-class Interaction {
-    constructor() {
-        let opening = new Interaction
-    }
+// class Interaction {
+//     constructor() {
+//         let opening = new Interaction
+//     }
 
-    opening() {
-        textOpening = [""]
-    }
-}
+//     opening() {
+//         textOpening = [""]
+//     }
+// }
+
+//page not in use
